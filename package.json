@@ -1,0 +1,11 @@
+{
+  "name": "qunit-phantom-grunt",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-shell": "^1.1.1",
+    "phantomjs": "^1.9.13",
+    "qunit-phantomjs-runner": "^2.0.0"
+  }
+}
