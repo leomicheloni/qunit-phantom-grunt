@@ -9,4 +9,6 @@ Go to the terminal and in the directory root type `bower install` and then `npm 
 Ready, you just need to start grunt, type `grunt`
 Now you can develop using continuos testing, try to modify the test file fixture.js and the tests will run automatically.
 
-Eenjoy.
+[There's a description (in spanish)](http://www.leomicheloni.com/post/2014/12/23/Testing-continuo-con-Qunit-Phantom-y-Grunt.aspx)
+
+Enjoy.
